@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<pedido>
+    <usuario>Francisco Alcuza Ramírez</usuario>
+    <ubicacion ciudad='Sevilla' cp='41002'>
+        <vivienda>
+            <calle>Barco</calle>
+            <bloque piso='3' letra='A'>4</bloque>
+        </vivienda>
+    </ubicacion>
+    <fecha año='2021'>
+        <dia>19</dia>
+        <mes>5</mes>
+    </fecha>
+</pedido>
+    

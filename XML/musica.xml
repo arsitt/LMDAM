@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<musica>
+    <pais nombre="UK"> 
+        <disco>
+        <artista discografica='VirginRecords'>Gary Moore</artista>
+        <titulo precio ='10.20' fecha='1990'>"Still got the blues"</titulo>
+        </disco>
+        <disco>
+        <artista discografica='Polydor'>BeeGees</artista>
+        <titulo precio='10.90' fecha='1998'>"One night only"</titulo>
+        </disco>
+    </pais>
+    <pais nombre="USA">
+        <disco>
+        <artista discografica='Atlantic'>Percy Sledge</artista>
+        <titulo precio='8.70' fecha='1987'>"When a man loves awoman"</titulo>
+        </disco>
+        <disco>
+        <artista discografica='Atlantic'>OtisRedding</artista>
+        <titulo precio='7.90' fecha='1987'>"The dock of the bay"</titulo>
+        </disco>
+        <disco>
+        <artista discografica='Columbia'>WillSmith</artista>
+        <titulo precio='9.90' fecha='1997'>"Big Willie style"</titulo>
+        </disco>
+    </pais>
+    <pais nombre="ES">
+        <disco>
+        <artista discografica='SonyMusic-Ariola'>Radio Futura</artista>
+        <titulo precio='9.90' fecha='1987'>"La cancion de JuanPerro"</titulo>
+        </disco>
+    </pais>
+</musica>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<equipos>
+    <equipo id='1'>
+        <nombre>F.C Barcelona</nombre>
+        <ciudad>Barcelona</ciudad>
+        <entrenador>Xavi Hernandez</entrenador>
+        <jugadores>
+            <jugador id='1'>
+                <nombre posicion='defensa'>Gerard Piqué</nombre>
+                <nacionalidad>Español</nacionalidad>
+            </jugador>
+            <jugador id='2'>
+                <nombre posicion='portero'>Ter Stegen</nombre>
+                <nacionalidad>Alemán</nacionalidad>            
+            </jugador>
+        </jugadores>
+    </equipo>
+    <equipo id='2'>
+        <nombre>Sevilla F.C</nombre>
+        <ciudad>Sevilla</ciudad>
+        <entrenador>Julen Lopetegui</entrenador>
+        <jugadores>
+            <jugador id='1'>
+                <nombre posicion='centrocampista'>Erik Lamela</nombre>
+                <nacionalidad>Argentino</nacionalidad>
+            </jugador>
+            <jugador id='2'>
+                <nombre posicion='defensa'>Jules Koundé</nombre>
+                <nacionalidad>Francés</nacionalidad>            
+            </jugador>
+        </jugadores>
+    </equipo>
+</equipos>
