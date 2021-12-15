@@ -1,0 +1,29 @@
+main {
+    background: linear-gradient(to bottom,rgb(75, 75, 75),white);
+}
+strong {
+    color: goldenrod;
+}
+mark.claves {
+    text-transform: uppercase;
+    letter-spacing: 5px;
+}
+p {
+    text-indent: 15px;
+    font-size: large;
+}
+
+span {
+    border-bottom: 1px goldenrod;
+    padding-bottom: 5px;
+}
+
+#formato1 {
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+p::first-letter{
+    font-size: xx-large;
+    font-weight: bold;
+}
